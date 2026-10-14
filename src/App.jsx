@@ -1,9 +1,7 @@
 import Menu from "./menu"
 import Footer from "./footer"
 import Navbar from "./nav"
-function Welcome(){
-  return <h2>Welcome Houston!</h2>;
-}
+import Welcome from "./Welcome";
 function Button(){
   return <button>Click me</button>;
 }
