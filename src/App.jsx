@@ -2,9 +2,7 @@ import Menu from "./menu"
 import Footer from "./footer"
 import Navbar from "./nav"
 import Welcome from "./Welcome";
-function Button(){
-  return <button>Click me</button>;
-}
+import Button from "./Button";
 function App() {
 
   const name = "seven"
