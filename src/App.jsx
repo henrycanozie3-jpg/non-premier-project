@@ -4,6 +4,9 @@ import Navbar from "./nav"
 function Welcome(){
   return <h2>Welcome Houston!</h2>;
 }
+function Button(){
+  return <button>Click me</button>;
+}
 function App() {
 
   const name = "seven"
