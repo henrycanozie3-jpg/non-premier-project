@@ -15,6 +15,7 @@ function App() {
     <div>
       <h1>Codevolution React Course</h1>
       <Welcome />
+      <Button />
       <Navbar
       Home = "Home"
       About = "About"
